@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ## To run the project execute following commands in sequence
 
-### `sudo npm install'
+### `npm install`
 ### `sudo npm start'
 and access the application at http://localhost:3000/
 
