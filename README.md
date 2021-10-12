@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+##To run the project execute following commands in sequence
+
+sudo npm install
+sudo npm start
+and access the application at http://localhost:3000/
+
 ### `npm start`
 
 Runs the app in the development mode.\
