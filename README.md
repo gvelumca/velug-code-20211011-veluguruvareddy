@@ -8,11 +8,8 @@ In the project directory, you can run:
 
 ## To run the project execute following commands in sequence
 
-### `npm install`
-### `sudo npm start'
-and access the application at http://localhost:3000/
-
-### `npm start`
+### `sudo npm install`
+### `sudo npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
